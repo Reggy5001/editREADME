@@ -26,4 +26,9 @@
 - Number 2
 - Number 3
 
-  
+### Add Images  
+
+##### For pngs/jpegs/jpgs
+
+<img src="![SoExcited~GIF](https://github.com/Reggy5001/editREADME/assets/150903197/56fda4d9-ded7-4642-9ccd-540173f1a167)
+">
