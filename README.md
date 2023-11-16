@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-# **Table of content** 1
+# **Table of content**
 
 ## - _Installation_ 2
 ### - _Usage_ 3
