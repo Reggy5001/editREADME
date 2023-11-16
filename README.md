@@ -19,7 +19,7 @@
  **n/a**
 
  # LISENCE
- **n/a**
+ **copyrights, all rights reserved**
 
 ### A list Bullet Points
 * Number 1
