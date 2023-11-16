@@ -9,17 +9,13 @@
 ###### _Lisence_ 6
 
  # INSTALATION
-
  **npm installed**
 
  # USAGE
-
  **command line application**
 
  # TEST
-
  **n/a**
- **version 1**
 
 ### A list Bullet Points
 * Number 1
