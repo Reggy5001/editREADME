@@ -12,11 +12,14 @@
 
  **npm installed**
 
- Theres one more __method__
+ # USAGE
 
- this is _italicised_ text.
+ **command line application**
 
- Theres one more *method*.
+ # TEST
+
+ **n/a**
+ **version 1**
 
 ### A list Bullet Points
 * Number 1
