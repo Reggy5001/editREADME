@@ -1,6 +1,6 @@
 # Description
 
-## Heading 2
+## Readme generator
 
 #### Heading 4
 
