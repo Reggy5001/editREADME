@@ -2,7 +2,7 @@
 
 # **Table of content** 1
 
-## _Installation_ 2
+## * _Installation_ 2
 ### _Usage_ 3
 #### _Contribution_ 4
 ##### _Tests_ 5
