@@ -10,6 +10,7 @@
 
  # INSTALATION
  **npm installed**
+ **version 1**
 
  # USAGE
  **command line application**
