@@ -10,7 +10,7 @@
 
  # INSTALATION
 
- This is an **emphasised** text
+ **npm installed**
 
  Theres one more __method__
 
