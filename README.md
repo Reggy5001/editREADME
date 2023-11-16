@@ -2,9 +2,12 @@
 
 # Table of content 1
 
-#### Heading 4
-
-###### Heading 6
+## Installation 2
+### Usage 3
+#### Contribution 4
+##### Tests 5
+###### Questions 6
+####### License 7
 
  Plain Text
 
