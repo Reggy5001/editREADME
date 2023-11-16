@@ -1,12 +1,12 @@
 # Description
 
-# Table of content 1
+# **Table of content** 1
 
 ## _Installation_ 2
-### Usage 3
-#### Contribution 4
-##### Tests 5
-###### Lisence 6
+### _Usage_ 3
+#### _Contribution_ 4
+##### _Tests_ 5
+###### _Lisence_ 6
 
  Plain Text
 
