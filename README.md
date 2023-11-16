@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION
 
 # **Table of content** 1
 
@@ -8,7 +8,7 @@
 ##### _Tests_ 5
 ###### _Lisence_ 6
 
- Plain Text
+ # INSTALATION
 
  This is an **emphasised** text
 
