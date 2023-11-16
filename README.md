@@ -3,10 +3,10 @@
 # **Table of content**
 
 ## - _Installation_
-### - _Usage_ 3
-#### - _Contribution_ 4
-##### - _Tests_ 5
-###### - _Lisence_ 6
+### - _Usage_
+#### - _Contribution_
+##### - _Tests_
+###### - _Lisence_
 
  # INSTALATION
  **npm installed**
