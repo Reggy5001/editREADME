@@ -15,7 +15,7 @@
  # USAGE
  **command line application**
 
- # TEST
+ # TESTS
  **n/a**
 
 ### A list Bullet Points
