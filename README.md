@@ -2,12 +2,11 @@
 
 # Table of content 1
 
-## Installation 2
+## _Installation_ 2
 ### Usage 3
 #### Contribution 4
 ##### Tests 5
-###### Questions 6
-####### License 7
+###### Lisence 6
 
  Plain Text
 
